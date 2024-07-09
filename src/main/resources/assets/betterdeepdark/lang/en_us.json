@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3Deep Dark Sword",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3Deep Dark Pickaxe",
+  "item.betterdeepdark.deep_dark_axe": "§3Deep Dark Axe",
+  "item.betterdeepdark.deep_dark_shovel": "§3Deep Dark Shovel",
+  "item.betterdeepdark.deep_dark_hoe": "§3Deep Dark Hoe",
+
+  "item.betterdeepdark.echo_helmet": "§3Echo Helmet",
+  "item.betterdeepdark.echo_chestplate": "§3Echo Chestplate",
+  "item.betterdeepdark.echo_leggings": "§3Echo Leggings",
+  "item.betterdeepdark.echo_boots": "§3Echo Boots",
+
+  "item.betterdeepdark.soul_piece": "Soul Piece",
+  "item.betterdeepdark.echo_stone": "Echo Stone",
+  "item.betterdeepdark.wardens_horn": "Warden's Horn",
+  "item.betterdeepdark.slimed_wardens_horn": "Slimed Warden's Horn",
+  "item.betterdeepdark.dark_ingot": "Dark Ingot",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "Echo Upgrade Smithing Template",
+  "block.betterdeepdark.echo_stone_block": "Echo Stone Block",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9Netherite Equipment",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9Dark Ingot",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7Echo Upgrade",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "Add netherite armor, weapon, or tool",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "Add Dark Ingot",
+
+  "creativetab.betterdeepdark": "Better Deep Dark"
+}

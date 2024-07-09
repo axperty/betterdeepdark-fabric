@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "betterdeepdark:dark_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "result": {
+    "item": "betterdeepdark:deep_dark_sword"
+  },
+  "template": {
+    "item": "betterdeepdark:echo_upgrade_smithing_template"
+  }
+}
